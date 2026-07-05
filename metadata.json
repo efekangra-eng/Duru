@@ -1,0 +1,6 @@
+{
+  "name": "Duru Sürpriz",
+  "description": "Özel bir kalp animasyonu ve kutlama mesajı içeren mobil uyumlu sürpriz uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
